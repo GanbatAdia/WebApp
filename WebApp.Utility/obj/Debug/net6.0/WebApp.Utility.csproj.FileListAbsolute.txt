@@ -1,0 +1,17 @@
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.Utility.deps.json
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.Utility.dll
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.Utility.pdb
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.csproj.AssemblyReference.cache
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.AssemblyInfoInputs.cache
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.AssemblyInfo.cs
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.dll
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\refint\WebApp.Utility.dll
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.pdb
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\ref\WebApp.Utility.dll
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.DataAccess.dll
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.Models.dll
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.DataAccess.pdb
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\bin\Debug\net6.0\WebApp.Models.pdb
+C:\Users\ganbu\source\repos\WebApp\WebApp.Utility\obj\Debug\net6.0\WebApp.Utility.csproj.CopyComplete

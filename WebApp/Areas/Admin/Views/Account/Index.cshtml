@@ -1,0 +1,28 @@
+﻿@model WebApp.DataAccess.ViewModels.AccountVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+<form method="post" asp-action="Register">
+
+    <div class="border p-3 mt-4">
+        <div asp-validation-summary=All></div>
+
+        <div class="row mb-3">
+            <label asp-for="ApplicationUser.Email"></label>
+            <input asp-for="ApplicationUser.Email" class="form-control"/>
+            <span asp-validation-for="ApplicationUser.Email" class="text-danger"></span>
+        </div>
+        <div class="col-md-10">  
+            @Html.DropDownList("UserRoles", (SelectList)ViewBag.Name, " ")  
+        </div>  
+       
+            <button class ="btn btn-primary" type="submit">Update</button>
+        
+    </div>
+    <a asp-area="Customer" asp-action="Index" asp-controller="Home">Back to home</a>
+
+</form>
+@section scripts{
+     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
